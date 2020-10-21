@@ -68,3 +68,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{% callout note %}}
+There is a [Google calendar](https://calendar.google.com/calendar/u/0?cid=ZWlndDJsZXJ0ajhoazQ3MWczbDBtODQ0ODBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for the series. It is currently empty.
+{{% /callout %}}
