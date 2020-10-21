@@ -53,4 +53,4 @@ title = "Re: Presentations"
 
 Online Seminar Series on Political Representation
 
-Starts on January 2021.
+Starts on January 2021
