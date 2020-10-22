@@ -30,7 +30,7 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
-    exclude_past = false
+    exclude_past = true
     exclude_future = false
     
 [design]

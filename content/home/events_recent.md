@@ -31,7 +31,7 @@ subtitle = ""
     author = ""
     exclude_featured = false
     exclude_past = false
-    exclude_future = false
+    exclude_future = true
     
 [design]
   # Toggle between the various page layout types.
