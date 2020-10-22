@@ -70,5 +70,5 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-There is a <a href="https://calendar.google.com/calendar/u/0?cid=ZWlndDJsZXJ0ajhoazQ3MWczbDBtODQ0ODBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">Google calendar</a> for the series, which we will keep up to date with upcoming events.
+There is a <a href="https://calendar.google.com/calendar/u/0?cid=ZWlndDJsZXJ0ajhoazQ3MWczbDBtODQ0ODBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">Google calendar</a> for the series, which we will keep up-to-date with upcoming events.
 {{% /callout %}}
