@@ -45,6 +45,9 @@ title = "Re: Presentations"
 [cta_alt]
   url = "registration"
   label = "Register for Events"
+  
+[cta_note]
+  label = "Regular meetings every other Tuesday, at 18:00 CET, starting in January 2021"
 
 # Note. An optional note to show underneath the links.
 #  [cta_note]
@@ -53,4 +56,5 @@ title = "Re: Presentations"
 
 Online Seminar Series on Political Representation
 
-Regular meetings every other Tuesday, at 18:00 CET, starting in January 2021
+Inclusive | Dinamic | Supportive
+
