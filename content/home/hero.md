@@ -56,5 +56,3 @@ title = "Re: Presentations"
 
 Online Seminar Series on Political Representation
 
-Inclusive | Dinamic | Supportive
-
