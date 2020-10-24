@@ -50,6 +50,10 @@ subtitle = ""
  css_class = ""
 +++
 
-#### 👋 Welcome to **Re: Presentations** --- a series of online seminars on political representation, organised by [Lucy Kinski](https://representations.netlify.app/author/lucy-kinski/) and [Resul Umit](https://representations.netlify.app/author/resul-umit/).
+#### 👋 Welcome to **Re: Presentations** --- online seminars on political representation, organised by [Lucy Kinski](https://representations.netlify.app/author/lucy-kinski/) and [Resul Umit](https://representations.netlify.app/author/resul-umit/).
 
-**Re: Presentations** offers you an oppotunity to  you to create your job-winning online resumé and showcase your academic publications.
+**Re: Presentations** 
+
+
+
+.
