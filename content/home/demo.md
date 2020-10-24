@@ -52,18 +52,21 @@ subtitle = ""
 
 ### 👋 Welcome 
 
-**Re: Presentations** are a series of online seminars on political representation, organised by [Lucy Kinski](https://representations.netlify.app/author/lucy-kinski/) and [Resul Umit](https://representations.netlify.app/author/resul-umit/). 
+*Re: Presentations* are a series of online seminars on political representation, organised by [Lucy Kinski](https://representations.netlify.app/author/lucy-kinski/) and [Resul Umit](https://representations.netlify.app/author/resul-umit/). 
 
 The series aspire to facilitate an inclusive, dynamic, and supportive environment where scholarly work on anything representation can be discussed.
 
 ### Inclusive
 
+By the virtue of being online, *Re: Presentations* remove the budgetary constraints over attendance to academic events. In addition, the series are motivated to be inclusive in terms of who presents and what is presented.
+
+We therefore encourage those who are less likely to be seen presenting at --- including, but not limited to women, minorities, and first generation scholars --- to [propose a presentation](proposal). 
+
+### Dynamic
 
 
 
-#### Dynamic
-
-#### Supportive
+### Supportive
 
 
 
