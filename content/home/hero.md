@@ -38,7 +38,7 @@ title = "Re: Presentations"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "proposal"
-  label = "Propose a Paper"
+  label = "Propose a Presentation"
   icon_pack = "fas"
   icon = "download"
   

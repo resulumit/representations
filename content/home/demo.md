@@ -60,7 +60,7 @@ The series aspire to facilitate an inclusive, dynamic, and supportive environmen
 
 By the virtue of being online, *Re: Presentations* remove the budgetary constraints over attendance to academic events. In addition, the series are motivated to be inclusive in terms of who presents and what is presented.
 
-We therefore encourage those who are less likely to be seen presenting at --- including, but not limited to women, minorities, and first generation scholars --- to [propose a presentation](proposal). 
+We therefore encourage those who are less likely to be seen at conferences --- including, but not limited to, women, minorities, and first generation scholars --- to [propose a presentation](proposal). 
 
 ### Dynamic
 
@@ -68,6 +68,3 @@ We therefore encourage those who are less likely to be seen presenting at --- in
 
 ### Supportive
 
-
-
-.
