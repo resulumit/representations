@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 Welcome to the Academic Template
+## 👋 Welcome to Re: Presentations --- a series of online seminars on political representation, organised by [Lucy Kinski](https://representations.netlify.app/author/lucy-kinski/) and [Resul Umit](https://representations.netlify.app/author/resul-umit/).
 
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
 
