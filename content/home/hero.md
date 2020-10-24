@@ -53,4 +53,4 @@ title = "Re: Presentations"
 
 Online Seminar Series on Political Representation
 
-Starting in January 2021
+Regular meetings every other Tuesday, at 18:00 CET, starting in January 2021
