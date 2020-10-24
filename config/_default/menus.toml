@@ -9,12 +9,12 @@
   weight = 10
 
 [[main]]
-  name = "Propose"
+  name = "Proposal"
   url = "proposal"
   weight = 20
 
 [[main]]
-  name = "Register"
+  name = "Registeration"
   url = "registration"
   weight = 30
 
