@@ -7,6 +7,6 @@ commentable: false
 editable: false
 ---
 
-Try an intro note
+By filling in the form below, you ccan register to receive updates on upcoming *Re: Presentations* events and links to join us.
 
 <script type="text/javascript" src="https://nettskjema.no/static/js/external-embedding.js"></script><iframe class="nettskjema-iframe" src="https://nettskjema.no/a/168275?embed=1" title="RE: Presentations Registration" frameborder="0" width="100%">If you can read this, your browser does not support iframes.</iframe>
