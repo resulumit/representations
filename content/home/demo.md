@@ -62,6 +62,8 @@ By the virtue of being online, *Re: Presentations* remove the budgetary constrai
 
 We therefore encourage those who are less likely to be seen at conferences --- including, but not limited to, women, minorities, and first generation scholars --- to [propose a presentation](proposal). 
 
+Similarly, the series are open to theoretical as well as empirical studies, qualitative as well as quantitative research, null as well as significant results, and so on.
+
 ### Dynamic
 
 

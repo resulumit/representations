@@ -44,7 +44,7 @@ title = "Re: Presentations"
   
 [cta_alt]
   url = "registration"
-  label = "Register for Seminars"
+  label = "Register for Attendance"
   
 [cta_note]
   label = "Regular meetings every other Tuesday, at 18:00 CET, starting in January 2021"
