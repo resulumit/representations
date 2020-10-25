@@ -54,19 +54,25 @@ subtitle = ""
 
 *Re: Presentations* are a series of online seminars on political representation, organised by [Lucy Kinski](https://representations.netlify.app/author/lucy-kinski/) and [Resul Umit](https://representations.netlify.app/author/resul-umit/). 
 
-The series aspire to facilitate an inclusive, dynamic, and supportive environment where scholarly work on anything representation can be discussed.
+The series aspire to facilitate an inclusive, supportive, and dynamic environment where scholarly work on anything representation can be discussed.
 
 ### Inclusive
 
 By the virtue of being online, *Re: Presentations* remove the budgetary constraints over attendance to academic events. In addition, the series are motivated to be inclusive in terms of who presents and what is presented.
 
-We therefore encourage those who are less likely to be seen at conferences --- including, but not limited to, women, minorities, and first generation scholars --- to [propose a presentation](proposal). 
+We therefore encourage those who are less likely to be seen at conferences --- including, but not limited to, women, minorities, and first generation scholars --- to [propose a presentation](proposal) and/or [register for attendance](attendance). 
+Similarly, the series are wide open to theoretical as well as empirical studies, qualitative as well as quantitative research, null as well as significant results, and so on.
 
-Similarly, the series are open to theoretical as well as empirical studies, qualitative as well as quantitative research, null as well as significant results, and so on.
+### Supportive
+
+*Re: Presentations* are designed with supporting scholars with their research in mind, and we believe in the power of constructive feedback on works in progress. 
+
+This is why the organisers will read every paper and provide presenters with written feedback. The presenters will be invited to do the same for one of the other presentations in the series.
+
+
 
 ### Dynamic
 
 
 
-### Supportive
 
