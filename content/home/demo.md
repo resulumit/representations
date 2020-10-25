@@ -61,25 +61,20 @@ The series aspire to facilitate an inclusive, supportive, and dynamic environmen
 By the virtue of being online, *Re: Presentations* remove the budgetary constraints over attendance to academic events. In addition, the series are motivated to be inclusive in terms of who presents and what is presented.
 
 We therefore encourage those who are less likely to be seen at conferences --- including, but not limited to, women, minorities, and first generation scholars --- to [propose a presentation](proposal) and/or [register for attendance](attendance). 
-Similarly, the series are wide open to theoretical as well as empirical studies, qualitative as well as quantitative research, null as well as significant results, and so on.
+
+Similarly, the series is wide open to theoretical as well as empirical studies, qualitative as well as quantitative research, null as well as significant results, and so on.
 
 ### Supportive
 
 *Re: Presentations* are designed with supporting scholars in mind, and we believe in the power of constructive feedback on research in progress. 
 
-This is why the organisers will 
+This is why the organisers will: 
 - read every paper and provide presenters with written feedback
-- invite scholars best placed to support a given paper to act as discussant
+- invite scholars best placed to support a given paper to act as discussant, and
 - encourage constructive feedback from others in attendance
-
-
-
-
-
-
 
 ### Dynamic
 
+The series is open to change, to achieve a more inclusive and more supportive environment where scholarly work on anything representation can be discussed.
 
-
-
+*Re: Presentations* will adopt to your demands,  what works, what does not --- as to how and how often we orginise the series and individual meetings.
