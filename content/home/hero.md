@@ -40,7 +40,7 @@ title = "Re: Presentations"
   url = "proposal"
   label = "Propose a Presentation"
   icon_pack = "fas"
-  icon = "download"
+  icon = "chalkboard-teacher"
   
 [cta_alt]
   url = "registration"
