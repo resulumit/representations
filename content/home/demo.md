@@ -77,4 +77,4 @@ This is why the organisers will:
 
 The series is open to change, to achieve a more inclusive and more supportive environment where scholarly work on anything representation can be discussed.
 
-*Re: Presentations* will adopt to your demands,  what works, what does not --- as to how and how often we orginise the series and individual meetings.
+*Re: Presentations* will adopt to your demands,  what works, what does not --- as to how and how often we organise the series and individual meetings.
