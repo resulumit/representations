@@ -65,9 +65,16 @@ Similarly, the series are wide open to theoretical as well as empirical studies,
 
 ### Supportive
 
-*Re: Presentations* are designed with supporting scholars with their research in mind, and we believe in the power of constructive feedback on works in progress. 
+*Re: Presentations* are designed with supporting scholars in mind, and we believe in the power of constructive feedback on research in progress. 
 
-This is why the organisers will read every paper and provide presenters with written feedback. The presenters will be invited to do the same for one of the other presentations in the series.
+This is why the organisers will 
+- read every paper and provide presenters with written feedback
+- invite scholars best placed to support a given paper to act as discussant
+- encourage constructive feedback from others in attendance
+
+
+
+
 
 
 
