@@ -25,7 +25,7 @@ bio: Lucy Kinski is a post-doctoral researcher and lecturer at the Heinrich Hein
 
 interests:
 - European Union
-- Rrepresentation
+- Representation
 - Parliaments
 - Political Parties
 - Political Communication
