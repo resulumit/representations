@@ -1,6 +1,6 @@
 ---
 title: "Propose a Presentation"
-subtitle: "Propose a paper to present at a 𝑹𝒆:𝐏𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧𝐬 seminar"
+subtitle: "Propose a paper to present at a 𝙍𝙚:𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻𝘀 seminar"
 date: "2018-06-28T00:00:00+01:00"
 draft: false
 share: true
