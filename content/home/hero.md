@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Re: Presentations"
+title = "*Re:* Presentations"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "hero-academic.png"
@@ -47,7 +47,7 @@ title = "Re: Presentations"
   label = "Register for Attendance"
   
 [cta_note]
-  label = "Regular meetings every other Tuesday, at 18:00 CET, starting in January 2021"
+  label = "Regular meetings every other Wednesday, at 18:00 CET, starting in January 2021"
 
 # Note. An optional note to show underneath the links.
 #  [cta_note]
