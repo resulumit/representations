@@ -21,7 +21,7 @@ organizations:
   url: "https://www.hhu.de/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lucy Kinski is a post-doctoral researcher and lecturer at the Heinrich Heine University Düsseldorf, and a fellow at the Düsseldorf Party Research Institute, Germany.
+bio: Lucy Kinski is a post-doctoral researcher and lecturer in political science at the Heinrich Heine University Düsseldorf, and a fellow at the Düsseldorf Party Research Institute, Germany.
 
 interests:
 - European Union
@@ -35,6 +35,15 @@ education:
   - course: PhD in Political Science
     institution: University of Vienna
     year: 2018
+  - course: Master of Public Policy
+    institution: Hertie School Berlin
+    year: 2012
+  - course: BA Minor of Economics
+    institution: Utrecht School of Economics
+    year: 2009
+  - course: BA in Social Sciences
+    institution: University of Düsseldorf
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

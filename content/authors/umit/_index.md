@@ -36,7 +36,7 @@ education:
   courses:
   - course: PhD in Political Science
     institution: University of Vienna
-    year: 2017
+    year: 2014 &ndash; 2017
   - course: MSSc in European Studies
     institution: University of Tampere
     year: 2009
