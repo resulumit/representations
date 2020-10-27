@@ -52,13 +52,13 @@ subtitle = ""
 
 ### 👋 Welcome 
 
-*Re: Presentations* are a series of online seminars on political representation, organised by [Lucy Kinski](https://representations.netlify.app/author/lucy-kinski/) and [Resul Umit](https://representations.netlify.app/author/resul-umit/). 
+*Re:*Presentations are a series of online seminars on political representation, organised by [Lucy Kinski](https://representations.netlify.app/author/lucy-kinski/) and [Resul Umit](https://representations.netlify.app/author/resul-umit/). 
 
 The series aspire to facilitate an inclusive, supportive, and dynamic environment where scholarly work on anything representation can be discussed.
 
 ### Inclusive
 
-By the virtue of being online, *Re: Presentations* remove the budgetary constraints over attendance to academic events. In addition, the series are motivated to be inclusive in terms of who presents and what is presented.
+By the virtue of being online, *Re:*Presentations remove the budgetary constraints over attendance to academic events. In addition, the series are motivated to be inclusive in terms of who presents and what is presented.
 
 We therefore encourage those who are less likely to be seen at conferences --- including, but not limited to, women, minorities, and first generation scholars --- to [propose a presentation](proposal) and/or [register for attendance](attendance). 
 
@@ -66,7 +66,7 @@ Similarly, the series is wide open to theoretical as well as empirical studies, 
 
 ### Supportive
 
-*Re: Presentations* are designed with supporting scholars in mind, and we believe in the power of constructive feedback on research in progress. 
+*Re:*Presentations are designed with supporting scholars in mind, and we believe in the power of constructive feedback on research in progress. 
 
 This is why the organisers will: 
 - read every paper and provide presenters with written feedback
@@ -77,4 +77,4 @@ This is why the organisers will:
 
 The series is open to change, to achieve a more inclusive and more supportive environment where scholarly work on anything representation can be discussed.
 
-*Re: Presentations* will adopt to your demands,  what works, what does not --- as to how and how often we organise the series and individual meetings.
+*Re:*Presentations will adopt to your demands,  what works, what does not --- as to how and how often we organise the series and individual meetings.
