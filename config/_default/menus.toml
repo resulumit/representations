@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "<i>Re</i>:Presentations"
+  name = "<b><i>Re</i>:Presentations</b>"
   url = "/"
   weight = 10
 
