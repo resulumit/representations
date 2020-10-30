@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-The series is open to change, to achieve a more inclusive and more supportive environment where scholarly work on anything representation can be discussed.
+The series is open to change, to achieve a more inclusive and more supportive environment.
 
 𝙍𝙚:𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻𝘀 will adapt to your demands, constantly reassess what works and what does not --- as to how and how often we organise the series and individual meetings.

@@ -47,7 +47,7 @@ title = "𝙍𝙚:𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻𝘀"
   label = "Register for Attendance"
   
 [cta_note]
-  label = "Regular meetings every other Wednesday, at 18:00 CET, starting in January 2021"
+  label = "Regular meetings every other Wednesday, at 18:00 CET, via Zoom, starting in January 2021"
 
 # Note. An optional note to show underneath the links.
 #  [cta_note]

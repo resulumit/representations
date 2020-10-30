@@ -52,4 +52,6 @@ subtitle = ""
 
 𝙍𝙚:𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻𝘀 is a series of online seminars on political representation, organised by [Lucy Kinski](https://representations.netlify.app/author/lucy-kinski/) and [Resul Umit](https://representations.netlify.app/author/resul-umit/). 
 
-The series aspires to facilitate an inclusive, supportive, and dynamic environment in which scholarly work on anything representation can be discussed.
+The series aspires to facilitate an inclusive, supportive, and dynamic environment in which scholarly work on anything representation can be presented and discussed.
+
+Each seminary will consist of a 30-minute presentation, followed by meaningful opportunities for the audiance to be involved in the discussion.
