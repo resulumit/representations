@@ -54,4 +54,4 @@ subtitle = ""
 
 The series aspires to facilitate an inclusive, supportive, and dynamic environment in which scholarly work on anything representation can be presented and discussed.
 
-Each seminary will consist of a 30-minute presentation, followed by meaningful opportunities for the audiance to be involved in the discussion.
+Each online seminar will consist of a 30-minute presentation, followed by meaningful opportunities for the audience to be involved in the discussion.
