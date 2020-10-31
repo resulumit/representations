@@ -1,7 +1,7 @@
 Source files for *Re*:Presentations 
 =================================
 
-All files for https://representations.online, generated with [Blogdown](https://github.com/rstudio/blogdown) and [Hugo](http://gohugo.io/).
+All files for https://www.representations.online, generated with [Blogdown](https://github.com/rstudio/blogdown) and [Hugo](http://gohugo.io/).
 
 The design is a modification of [Wowchemy's academic theme](https://github.com/wowchemy/starter-academic).
 
