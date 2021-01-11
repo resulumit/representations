@@ -9,16 +9,21 @@
   weight = 10
 
 [[main]]
+  name = "Current Schedule"
+  url = "current-schedule"
+  weight = 20
+
+[[main]]
   name = "Proposal"
   url = "proposal"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Registration"
   url = "registration"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Organisers"
   url = "#people"
-  weight = 40
+  weight = 50
