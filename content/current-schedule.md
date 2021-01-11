@@ -9,15 +9,15 @@ editable: false
 ---
 
 #### Wednesday, January 20, 2021, 18:00 CET
-Economic integration and perceived substantive representation: The conditional role of experience and knowledge
-Cal Le Gall & Virginie Van Ingelgom, UCLouvain
+[Economic integration and perceived substantive representation: The conditional role of experience and knowledge](https://www.representations.online/seminars/2021-spring-01-le-gall/)    
+**Cal Le Gall & Virginie Van Ingelgom**, *UCLouvain*
 
 #### Wednesday, February 3, 2021, 18:00 CET
-Constituency focus under times of crisis. An instrument to escape party discipline? An examination of the Greek case
+Constituency focus under times of crisis. An instrument to escape party discipline? An examination of the Greek case    
 Yani Kartalis, University of Lisbon
 
 #### Wednesday, February 17, 2021, 18:00 CET
-Parties’ group appeals as representational claims in Israel and the Netherlands, 1977-2015
+Parties’ group appeals as representational claims in Israel and the Netherlands, 1977-2015    
 Alona Dolinsky, Johns Hopkins University
 
 #### Wednesday, March 3, 2021, 18:00 CET
