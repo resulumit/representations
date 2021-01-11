@@ -11,7 +11,7 @@ date: "2021-01-20"
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-image: ""
+image: []
 
 ---
 
