@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Current Schedule"
-  url = "current-schedule"
+  name = "Schedule"
+  url = "schedule"
   weight = 20
 
 [[main]]
