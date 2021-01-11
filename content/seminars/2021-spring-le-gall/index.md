@@ -9,6 +9,8 @@ summary: "Cal Le Gall & Virginie Van Ingelgom"
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-01-20"
 
+# Schedule page publish date (NOT talk date).
+publishDate: "2017-01-01T00:00:00Z"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
