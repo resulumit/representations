@@ -8,7 +8,7 @@ commentable: false
 editable: false
 ---
 
-##### 20 January 2021 | 18:00 CET
+##### 20 January 2021 | Wednesday | 18:00 CET
 [Economic integration and perceived substantive representation: The conditional role of experience and knowledge](https://www.representations.online/seminars/2021-spring-01-le-gall/)         
 Cal Le Gall & Virginie Van Ingelgom, *UCLouvain*
 
