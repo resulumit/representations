@@ -1,5 +1,5 @@
 ---
-title: "Don’t blame the candidate &mdash; A text analysis of gendered differences in the self-presentation of politicians in a lab experiment"
+title: "Don’t blame the candidate — A text analysis of gendered differences in the self-presentation of politicians in a lab experiment"
 summary: "Amanda Haraldsson"
 date: "2021-03-31"
 publishDate: "2017-01-01T00:00:00Z"
