@@ -7,6 +7,7 @@ summary: "Yani Kartalis, University of Lisbon"
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-02-03"
+time_start = "2021-02-03T13:00:00"
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
