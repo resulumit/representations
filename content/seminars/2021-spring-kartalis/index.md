@@ -2,7 +2,7 @@
 title: "Constituency focus under times of crisis. An instrument to escape party discipline? An examination of the Greek case"
 
 # Summary. An optional shortened abstract.
-summary: "Yani Kartalis, University of Lisbon"
+summary: "Yani Kartalis"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
