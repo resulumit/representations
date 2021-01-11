@@ -3,8 +3,9 @@ title: "From women’s presence to feminist representation: Second-generation de
 summary: "Sarah Childs & Karen Celis"
 date: "2021-03-17"
 publishDate: "2017-01-01T00:00:00Z"
-
 ---
+
+**Sarah Childs & Karen Celis**, *Royal Holloway University of London & Vrije Universiteit Brussel*
 
 ### Abstract
 

@@ -6,6 +6,8 @@ publishDate: "2017-01-01T00:00:00Z"
 
 ---
 
+**Anna Ehrhart**, *Mid Sweden University*
+
 ### Abstract
 
 Despite global tendencies of increasing political representation and empowerment of women, Turkey represents a deviant case where women`s political representation consistently ranks low on national and local governance levels and political decision-making remains a male-dominated sphere. While the women`s movement(s) in Turkey are persistent and vital driving forces of political change on women`s rights and gender equality, the formal political arena continues to pose barriers and challenges that uphold women`s under-representation. This paper seeks to explore how women parliamentarians in Turkey, despite their political under-representation in decision-making, experience and understand their own role as representatives for women and women`s interests. 

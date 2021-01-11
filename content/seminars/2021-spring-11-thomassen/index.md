@@ -6,6 +6,8 @@ publishDate: "2017-01-01T00:00:00Z"
 
 ---
 
+**Lasse Thomassen**, *Queen Mary University of London*
+
 ### Abstract
 
 In the 1990s, the social sciences saw a performative turn with an increased focus on practice and on doing, and on how these constitute our political world. Politics was increasingly seen as a kind of performance, among other things as a kind of theatricality where politics is framed, staged, mise-en-scène. The theater metaphor is often used as a way to make sense of the role of citizens in representative democracy; the theater metaphor is useful in this regard because it highlights the relationship between active and passive, participant and observer, actors and spectators, as well as the staged – some would say manipulated – character of representative politics, all of which are central issues in democratic theory.

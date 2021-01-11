@@ -6,6 +6,8 @@ publishDate: "2017-01-01T00:00:00Z"
 
 ---
 
+**Robin Devroe**, *Ghent University*
+
 ### Abstract
 
 Previous research aimed at untangling the issue of women’s political underrepresentation has found that women face various barriers when trying to enter and thrive in the world of politics (Celis & Meier, 2006; Matland, 2005). One of the reasons why political parties and voters were initially unwilling to support the equal representation of men and women in politics was based on conservative gender role attitudes and gender stereotypes (Huddy & Terkildsen, 1993). More recent research lines posit that stereotype reliance is not an automatic process, but rather a contextually dependent process (Blair, 2002). Voters are found to only use feminine stereotypes when they receive information about a candidate that matches these feminine stereotypes. 

@@ -3,10 +3,9 @@ title: "Constituency focus under times of crisis. An instrument to escape party 
 summary: "Yani Kartalis"
 date: "2021-02-03"
 publishDate: "2017-01-01T00:00:00Z"
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
 ---
+
+**Yani Kartalis**, *University of Lisbon*
 
 ### Abstract
 
