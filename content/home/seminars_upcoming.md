@@ -33,10 +33,11 @@ subtitle = ""
     exclude_past = true
     exclude_future = false
     
+  # This puts a link at the end of the section for more  
   [content.archive]
     enable = false
-    text = "See all blog posts"
-    link = "post/"
+    text = ""
+    link = ""
     
 [design]
   # Toggle between the various page layout types.

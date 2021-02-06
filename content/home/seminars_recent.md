@@ -33,6 +33,12 @@ subtitle = ""
     exclude_past = false
     exclude_future = true
     
+  # This puts a link at the end of the section for more  
+  [content.archive]
+    enable = false
+    text = ""
+    link = ""
+    
 [design]
   # Toggle between the various page layout types.
   #   1 = List
