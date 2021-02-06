@@ -1,6 +1,6 @@
 +++
 # A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
+# This section displays recent talks from `content/seminars/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -32,6 +32,11 @@ subtitle = ""
     exclude_featured = false
     exclude_past = true
     exclude_future = false
+    
+  [content.archive]
+    enable = false
+    text = "See all blog posts"
+    link = "post/"
     
 [design]
   # Toggle between the various page layout types.
