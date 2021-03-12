@@ -29,7 +29,7 @@ Brittany Anlar & Isabel Köhler, *Rutgers University*
 Sarah Childs & Karen Celis, *Royal Holloway University of London & Vrije Universiteit Brussel*
 
 #### 31 March 2021 | Wednesday | 18:00 CET
-[Don’t blame the candidate – A text analysis of gendered differences in the self-presentation of politicians in a lab experiment](https://www.representations.online/seminars/2021-spring-06-haraldsson/)     
+[Don’t blame the candidate? A text analysis of gendered differences in political self-presentation in a lab experiment](https://www.representations.online/seminars/2021-spring-06-haraldsson/)     
 Amanda Haraldsson, *European University Institute*
 
 #### 14 April 2021 | Wednesday | 18:00 CET
