@@ -52,10 +52,10 @@ education:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://www.phil-fak.uni-duesseldorf.de/pw-poguntke/homepage-lucy-kinski/
+  link: https://www.plus.ac.at/politikwissenschaft-und-soziologie/abteilung-politikwissenschaft/abteilung-politikwissenschaft-2/mitarbeiterinnen/kinski-lucy/
 - icon: envelope
   icon_pack: fas
-  link: "mailto:lucy.kinski@hhu.de"
+  link: "mailto:lucy.kinski@sbg.ac.at"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Lucy_Kinski
@@ -82,4 +82,4 @@ user_groups:
 
 ---
 
-Lucy Kinski is a post-doctoral researcher and lecturer at the Heinrich Heine University Düsseldorf, and a fellow at the Düsseldorf Party Research Institute, Germany.
+Lucy Kinski is a post-doctoral researcher and lecturer at Salzburg Center for European Union Studies, Universität Salzburg, Austria.
