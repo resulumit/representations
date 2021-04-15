@@ -17,8 +17,8 @@ role: Post-doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Heinrich Heine University Düsseldorf
-  url: "https://www.hhu.de/en/"
+- name: Universität Salzburg
+  url: "https://www.plus.ac.at/?lang=en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Lucy Kinski is a post-doctoral researcher and lecturer in political science at the Heinrich Heine University Düsseldorf, and a fellow at the Düsseldorf Party Research Institute, Germany.
