@@ -6,7 +6,7 @@ publishDate: "2017-01-01T00:00:00Z"
 
 ---
 
-**Miguel Pereira & Patrik Öhberg**, *University of Southern California & University of Gothenburg*
+**Miguel M. Pereira & Patrik Öhberg**, *University of Southern California & University of Gothenburg*
 
 ### Abstract
 
