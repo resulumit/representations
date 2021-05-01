@@ -42,7 +42,7 @@ Svenja Ahlhaus, *University of Hamburg*
 
 #### 12 May 2021 | Wednesday | 18:00 CET
 [The expertise curse: How policy expertise can hinder responsiveness](https://www.representations.online/seminars/2021-spring-09-pereira/)     
-Miguel Pereira & Patrik Öhberg, *University of Southern California & University of Gothenburg*
+Miguel M. Pereira & Patrik Öhberg, *University of Southern California & University of Gothenburg*
 
 #### 26 May 2021 | Wednesday | 18:00 CET
 [Women's blame, men's merit? An experimental test of the impact of performance information on the prevalence of political gender stereotypes in Flanders (Belgium)](https://www.representations.online/seminars/2021-spring-10-devroe/)    
