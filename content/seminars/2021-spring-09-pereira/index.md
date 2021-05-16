@@ -1,7 +1,7 @@
 ---
 title: "The expertise curse: How policy expertise can hinder responsiveness"
 summary: "Miguel M. Pereira & Patrik Öhberg"
-date: "2021-05-12"
+date: "2021-06-02"
 publishDate: "2017-01-01T00:00:00Z"
 
 ---
