@@ -40,13 +40,13 @@ Steven Van Hauwaert & Xavier Romero-Vidal, *University of Surrey & Leuphana Univ
 [Representing animals in political processes](https://www.representations.online/seminars/2021-spring-08-ahlhaus/)     
 Svenja Ahlhaus, *University of Hamburg*
 
-#### 12 May 2021 | Wednesday | 18:00 CET
-[The expertise curse: How policy expertise can hinder responsiveness](https://www.representations.online/seminars/2021-spring-09-pereira/)     
-Miguel M. Pereira & Patrik Öhberg, *University of Southern California & University of Gothenburg*
-
 #### 26 May 2021 | Wednesday | 18:00 CET
 [Women's blame, men's merit? An experimental test of the impact of performance information on the prevalence of political gender stereotypes in Flanders (Belgium)](https://www.representations.online/seminars/2021-spring-10-devroe/)    
 Robin Devroe, *Ghent University*
+
+#### 2 June 2021 | Wednesday | 18:00 CET
+[The expertise curse: How policy expertise can hinder responsiveness](https://www.representations.online/seminars/2021-spring-09-pereira/)     
+Miguel M. Pereira & Patrik Öhberg, *University of Southern California & University of Gothenburg*
 
 #### 9 June 2021 | Wednesday | 18:00 CET
 [Performing representative democracy: Deconstructing the theater metaphor](https://www.representations.online/seminars/2021-spring-11-thomassen/)      
