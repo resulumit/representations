@@ -48,10 +48,6 @@ Robin Devroe, *Ghent University*
 [The expertise curse: How policy expertise can hinder responsiveness](https://www.representations.online/seminars/2021-spring-09-pereira/)     
 Miguel M. Pereira & Patrik Öhberg, *University of Southern California & University of Gothenburg*
 
-#### 9 June 2021 | Wednesday | 18:00 CET
-[Performing representative democracy: Deconstructing the theater metaphor](https://www.representations.online/seminars/2021-spring-11-thomassen/)      
-Lasse Thomassen, *Queen Mary University of London*
-
 #### 23 June 2021 | Wednesday | 18:00 CET
 [Getting in, then representing? Narratives and experiences of women parliamentarians on doing and shaping women’s political representation in Turkey](https://www.representations.online/seminars/2021-spring-12-ehrhart/)     
 Anna Ehrhart, *Mid Sweden University*
