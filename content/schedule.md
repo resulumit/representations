@@ -48,10 +48,6 @@ Robin Devroe, *Ghent University*
 [The expertise curse: How policy expertise can hinder responsiveness](https://www.representations.online/seminars/2021-spring-09-pereira/)     
 Miguel M. Pereira & Patrik Öhberg, *University of Southern California & University of Gothenburg*
 
-#### 7 July 2021 | Wednesday | 18:00 CET
-[Identities in politics: Ethnic/racial minoritized citizens’ collective assessments of political representation](https://www.representations.online/seminars/2021-spring-13-de-jong/) 	    
-Judith de Jong, *University of Amsterdam*
-
 #### 21 July 2021 | Wednesday | 18:00 CET
 [The gender perspective in Latin American campaign plans: A selection based on legislative elections in 2020](https://www.representations.online/seminars/2021-spring-14-moreira/)     
 Paula Gomes Moreira, *Institute for Applied Economic Research Brazil*
