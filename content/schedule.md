@@ -1,6 +1,5 @@
 ---
 title: "Schedule"
-subtitle: "Spring 2021"
 date: "2018-06-28T00:00:00+01:00"
 draft: false
 share: true
@@ -8,23 +7,21 @@ commentable: false
 editable: false
 ---
 
-## Autumn 2021
+# Autumn 2021
 
 ##### 12 October 2021 | Tuesday | 16:00 CEST
 [What Helps Women More: Gender Quota or Multiple Vote? Evidence from Quasi-Experiments in the Elections to the Polish Municipality Councils](https://www.representations.online/seminars/2021-autumn-01-gulczynski/)         
 Michał Gulczyński, *Bocconi University*
 
 ##### 26 October 2021 | Tuesday | 16:00 CEST
-[TBC]        
-TBC, *TBC*
+*Awaiting confirmation*
 
 ##### 09 November 2021 | Tuesday | 16:00 CET
 [Some Needles from the Haystack – A Systematic Review of Empirical Applications of Representative Claim Analysis](https://www.representations.online/seminars/2021-autumn-03-ribbe/)         
 Darius Ribbe, *Greifswald University*
 
 ##### 16 November 2021 | Tuesday | 16:00 CET
-TBC         
-TBC, *TBC*
+*Awaiting confirmation*
 
 ##### 23 November 2021 | Tuesday | 16:00 CET
 [Issue Representation in the European Parliament: The Effect of Institutional Change on Behaviour of Mainstream and Eurosceptic MEPs](https://www.representations.online/seminars/2021-autumn-05-khokhlova/)         
