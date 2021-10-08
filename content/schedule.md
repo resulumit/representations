@@ -7,7 +7,7 @@ commentable: false
 editable: false
 ---
 
-# Autumn 2021
+## Autumn 2021
 
 ##### 12 October 2021 | Tuesday | 16:00 CEST
 [What Helps Women More: Gender Quota or Multiple Vote? Evidence from Quasi-Experiments in the Elections to the Polish Municipality Councils](https://www.representations.online/seminars/2021-autumn-01-gulczynski/)         
@@ -35,6 +35,7 @@ Ana Catalano Weeks, *University of Bath*
 [What Helps Women More: Gender Quota or Multiple Vote? Evidence from Quasi-Experiments in the Elections to the Polish Municipality Councils](https://www.representations.online/seminars/2021-autumn-07-vincent-mory/)         
 Claire Vincent-Mory, *Sciences-Po*
 
+<br>
 
 ## Spring 2021
 
