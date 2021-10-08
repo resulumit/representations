@@ -8,6 +8,39 @@ commentable: false
 editable: false
 ---
 
+## Autumn 2021
+
+##### 12 October 2021 | Tuesday | 16:00 CEST
+[What Helps Women More: Gender Quota or Multiple Vote? Evidence from Quasi-Experiments in the Elections to the Polish Municipality Councils](https://www.representations.online/seminars/2021-autumn-01-gulczynski/)         
+Michał Gulczyński, *Bocconi University*
+
+##### 26 October 2021 | Tuesday | 16:00 CEST
+[TBC]        
+TBC, *TBC*
+
+##### 09 November 2021 | Tuesday | 16:00 CET
+[Some Needles from the Haystack – A Systematic Review of Empirical Applications of Representative Claim Analysis](https://www.representations.online/seminars/2021-autumn-03-ribbe/)         
+Darius Ribbe, *Greifswald University*
+
+##### 16 November 2021 | Tuesday | 16:00 CET
+TBC         
+TBC, *TBC*
+
+##### 23 November 2021 | Tuesday | 16:00 CET
+[Issue Representation in the European Parliament: The Effect of Institutional Change on Behaviour of Mainstream and Eurosceptic MEPs](https://www.representations.online/seminars/2021-autumn-05-khokhlova/)         
+Aleksandra Khokhlova, *Leiden University*
+
+##### 07 December 2021 | Tuesday | 16:00 CET
+[The New Defenders of Gender Equality? When Do Radical Right Populist Parties Incorporate Women's Interests](https://www.representations.online/seminars/2021-autumn-06-weeks/)         
+Ana Catalano Weeks, *University of Bath*
+
+##### 14 December 2021 | Tuesday | 16:00 CET
+[What Helps Women More: Gender Quota or Multiple Vote? Evidence from Quasi-Experiments in the Elections to the Polish Municipality Councils](https://www.representations.online/seminars/2021-autumn-07-vincent-mory/)         
+Claire Vincent-Mory, *Sciences-Po*
+
+
+## Spring 2021
+
 ##### 20 January 2021 | Wednesday | 18:00 CET
 [Economic integration and perceived substantive representation: The conditional role of experience and knowledge](https://www.representations.online/seminars/2021-spring-01-le-gall/)         
 Cal Le Gall & Virginie Van Ingelgom, *UCLouvain*
