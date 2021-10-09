@@ -14,7 +14,8 @@ editable: false
 Michał Gulczyński, *Bocconi University*
 
 ##### 26 October 2021 | Tuesday | 16:00 CEST
-*Awaiting confirmation*
+[Populism as Mimetic Representation in Narendra Modi's Speeches][https://www.representations.online/seminars/2021-autumn-01-martelli/]
+Jean-Thomas Martelli *Centre de Sciences Humaines, New Delhi*
 
 ##### 09 November 2021 | Tuesday | 16:00 CET
 [Some Needles from the Haystack – A Systematic Review of Empirical Applications of Representative Claim Analysis](https://www.representations.online/seminars/2021-autumn-03-ribbe/)         
