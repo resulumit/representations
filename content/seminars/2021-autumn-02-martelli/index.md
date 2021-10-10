@@ -1,7 +1,7 @@
 ---
 title: "Populism as Mimetic Representation in Narendra Modi's Speeches"
 summary: "Jean-Thomas Martelli"
-date: "2021-10-12"
+date: "2021-10-26"
 publishDate: "2017-01-01T00:00:00Z"
 
 ---
