@@ -1,5 +1,5 @@
 ---
-title: "Does Social Class Matter for Substantive Representation? - An Analysis of Women Legislators’ Agenda Setting Behavior on the Economic Dimension"
+title: "Does Social Class Matter for Substantive Representation? An Analysis of Women Legislators' Agenda Setting Behavior on the Economic Dimension"
 summary: "Paula Reppmann"
 date: "2021-11-16"
 publishDate: "2017-01-01T00:00:00Z"
