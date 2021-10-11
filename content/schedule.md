@@ -22,7 +22,8 @@ Jean-Thomas Martelli *Centre de Sciences Humaines, New Delhi*
 Darius Ribbe, *Greifswald University*
 
 ##### 16 November 2021 | Tuesday | 16:00 CET
-*Awaiting confirmation*
+[Does Social Class Matter for Substantive Representation? - An Analysis of Women Legislators’ Agenda Setting Behavior on the Economic Dimension](https://www.representations.online/seminars/2021-autumn-04-reppmann/)
+Paula Reppmann, *Greifswald University*
 
 ##### 23 November 2021 | Tuesday | 16:00 CET
 [Issue Representation in the European Parliament: The Effect of Institutional Change on Behaviour of Mainstream and Eurosceptic MEPs](https://www.representations.online/seminars/2021-autumn-05-khokhlova/)         
