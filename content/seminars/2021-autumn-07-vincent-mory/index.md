@@ -1,6 +1,6 @@
 ---
 title: "Studying Descriptive Political Representation through Visibility? A Contribution to Comparative Empirical Research"
-summary: "Claire Vincent-Mory"
+summary: "Claire Vincent-Mory & Laura Morales"
 date: "2021-12-14"
 publishDate: "2017-01-01T00:00:00Z"
 
