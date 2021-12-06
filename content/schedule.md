@@ -35,7 +35,7 @@ Ana Catalano Weeks, *University of Bath*
 
 ##### 14 December 2021 | Tuesday | 16:00 CET
 [Studying Descriptive Political Representation through Visibility? A Contribution to Comparative Empirical Research](https://www.representations.online/seminars/2021-autumn-07-vincent-mory/)         
-Claire Vincent-Mory and Laura Morales, *Sciences-Po*
+Claire Vincent-Mory & Laura Morales, *Sciences-Po*
 
 <br>
 
