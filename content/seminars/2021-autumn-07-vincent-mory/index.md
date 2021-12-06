@@ -6,7 +6,7 @@ publishDate: "2017-01-01T00:00:00Z"
 
 ---
 
-**Claire Vincent-Mory**, *Sciences-Po*
+**Claire Vincent-Mory** and **Laura Morales**, *Sciences-Po*
 
 ### Abstract
 
