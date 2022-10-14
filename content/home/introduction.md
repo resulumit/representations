@@ -36,18 +36,18 @@ title = "𝙍𝙚:𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻𝘀"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "proposal"
-  label = "Propose a Presentation"
-  icon_pack = "fas"
-  icon = "chalkboard-teacher"
+#[cta]
+#  url = "proposal"
+#  label = "Propose a Presentation"
+#  icon_pack = "fas"
+#  icon = "chalkboard-teacher"
   
-[cta_alt]
-  url = "registration"
-  label = "Register for Attendance"
+#[cta_alt]
+#  url = "registration"
+#  label = "Register for Attendance"
   
-[cta_note]
-  label = "Regular meetings every other Tuesday, at 16:00 CEST/CET, via Zoom"
+#[cta_note]
+#  label = "Regular meetings every other Tuesday, at 16:00 CEST/CET, via Zoom"
 
 # Note. An optional note to show underneath the links.
 #  [cta_note]
@@ -56,3 +56,4 @@ title = "𝙍𝙚:𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻𝘀"
 
 Online Seminar Series on Political Representation
 
+[Currently, on an indefinite hiatus]

@@ -13,15 +13,15 @@
   url = "schedule"
   weight = 20
 
-[[main]]
-  name = "Proposal"
-  url = "proposal"
-  weight = 0
+#[[main]]
+#  name = "Proposal"
+#  url = "proposal"
+#  weight = 30
 
-[[main]]
-  name = "Registration"
-  url = "registration"
-  weight = 0
+#[[main]]
+#  name = "Registration"
+#  url = "registration"
+#  weight = 40
 
 [[main]]
   name = "Organisers"
