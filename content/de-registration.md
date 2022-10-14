@@ -2,7 +2,7 @@
 title: "Unsubscribe"
 subtitle: "Unsubscribe from receiving emails about 𝙍𝙚:𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻𝘀 seminars"
 date: "2018-06-28T00:00:00+01:00"
-draft: false
+draft: true
 share: true
 commentable: false
 editable: false

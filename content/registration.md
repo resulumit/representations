@@ -2,7 +2,7 @@
 title: "Register for Attendance"
 subtitle: "Receive updates on upcoming 𝙍𝙚:𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻𝘀 seminars and links to join us"
 date: "2018-06-28T00:00:00+01:00"
-draft: false
+draft: true
 share: true
 commentable: false
 editable: false
