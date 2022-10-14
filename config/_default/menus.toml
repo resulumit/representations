@@ -16,12 +16,12 @@
 [[main]]
   name = "Proposal"
   url = "proposal"
-  weight = 30
+  weight = 0
 
 [[main]]
   name = "Registration"
   url = "registration"
-  weight = 40
+  weight = 0
 
 [[main]]
   name = "Organisers"
